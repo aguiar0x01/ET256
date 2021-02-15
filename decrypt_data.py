@@ -16,7 +16,7 @@ def decrypt_data(file_name, key):
 
             # Leitura da sequência binária
             with open(file_name, "rb") as fo:
-                # Inicialização do vetor de inicialização com
+                # Vetor de inicialização com
                 # os 16 bytes necessários
                 iv = fo.read(16)
 
