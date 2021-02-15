@@ -165,6 +165,6 @@ Instale o Pyfiglet facilmente:
 
 ---
 
-![Image-logo-instagram-48x48](https://icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/48/instagram-2-icon.png)
+![Image-logo-instagram-48x48x](https://icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/48/instagram-2-icon.png)
 
-> [@humanodev](https://www.instagram.com/humanodev/)
+> #### [@humanodev](https://www.instagram.com/humanodev/)
