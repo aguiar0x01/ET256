@@ -35,7 +35,7 @@
 
 ### 3.a — Anaconda
 
-> O **_Anaconda_** é uma poderosa solução tecnológica para a Ciência de Dados e pode abranger as linguagens _**Python**_ e _**R**_, contendo ferramentas potentes para a análise de dados. Mas aqui a usaremos para criar e gerenciar *Ambientes virtuais* com praticidade.
+> O **_Anaconda_** é uma poderosa solução tecnológica para a Ciência de Dados e pode abranger as linguagens _**Python**_ e _**R**_, contendo ferramentas potentes para a análise de dados. Mas aqui a usaremos para criar e gerenciar *Ambientes Virtuais* com praticidade.
 
 ### Baixando e instalando o Anaconda
 
@@ -127,7 +127,7 @@ Instale o PyCryptodome facilmente:
 ## 3.c — Stdiomask
 ---
 
-> "Um módulo Python multi-plataforma para a entrada de senhas para um terminal de stdio e exibindo uma máscara ****..."
+> "Um módulo Python multiplataforma para a entrada de senhas para um terminal de stdio e exibindo uma máscara ****..."
 
 Instale o Stdiomask facilmente:
 
