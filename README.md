@@ -1,4 +1,4 @@
-# ET256 (EncryptorTrue256)
+# ET256
 
 ## Tópicos:
 
@@ -164,7 +164,3 @@ Instale o Pyfiglet facilmente:
 > #### [Carlos Aguiar](https://www.linkedin.com/in/aguiar0x01/)
 
 ---
-
-![Image-logo-instagram-48x48x](https://icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/48/instagram-2-icon.png)
-
-> #### [@humanodev](https://www.instagram.com/humanodev/)
